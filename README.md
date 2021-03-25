@@ -1,5 +1,8 @@
 # README
 
+8章課題:アプリケーションを作ろうです。
+ご確認のほどよろしくお願いします。
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
